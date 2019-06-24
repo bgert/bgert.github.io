@@ -1,8 +1,7 @@
 ---
 title: Home
 
-layout: page
-layout: no-title-post
+layout: page, no-title-post
 
 feature_image: "https://github.com/bgert/bgert.github.io/blob/master/new_street_car.jpg?raw=true"
 
