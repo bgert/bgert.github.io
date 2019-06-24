@@ -1,3 +1,10 @@
+---
+title: Home
+layout: page
+feature_image: "https://github.com/bgert/bgert.github.io/blob/master/new_street_car.jpg?raw=true"
+feature_text: |
+  Ben Gertz
+---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/bgert/bgert.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
