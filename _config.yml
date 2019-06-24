@@ -33,3 +33,6 @@ navigation_header:
   url: /about/
 - title: Blog
   url: /blog/
+- title: Resume
+  url: /resume/
+
