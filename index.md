@@ -2,8 +2,9 @@
 title: Home
 layout: page
 feature_image: "https://github.com/bgert/bgert.github.io/blob/master/new_street_car.jpg?raw=true"
-feature_text: |
-  Ben Gertz
+social_links:
+	linkedin_username: benjamin-gertz
+	github_username:  bgert
 ---
 ## Welcome to GitHub Pages
 
