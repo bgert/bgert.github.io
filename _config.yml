@@ -9,6 +9,9 @@ github_username:  bgert
 #theme: alembic-jekyll-theme
 remote_theme: daviddarnes/alembic
 
+url: 'https://bgertz.com'
+baseurl: ''
+
 # Set plugins
 plugins:
 - jekyll-sitemap
