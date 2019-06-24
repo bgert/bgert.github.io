@@ -9,7 +9,7 @@ social_links:
   github_username:  bgert
 #theme: alembic-jekyll-theme
 remote_theme: daviddarnes/alembic
-
+feature_image: "https://github.com/bgert/bgert.github.io/blob/master/new_street_car.jpg?raw=true"
 url: 'https://bgertz.com'
 baseurl: ''
 
