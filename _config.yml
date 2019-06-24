@@ -6,4 +6,4 @@ description: >- # this means to ignore newlines until "baseurl:"
 #url: "https://www.bgertz.com/" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: benjamin-gertz
 github_username:  bgert
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
