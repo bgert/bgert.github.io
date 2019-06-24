@@ -47,4 +47,4 @@ collections:
     description: "My thoughts and ideas"
     # feature_text: |
     #   Welcome to my blog
-    feature_image: "https://github.com/bgert/bgert.github.io/blob/master/street_car.jpg"
+    feature_image: "/bgert/bgert.github.io/blob/master/street_car.jpg?raw=true"
