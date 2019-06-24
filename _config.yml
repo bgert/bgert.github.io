@@ -8,3 +8,19 @@ linkedin_username: benjamin-gertz
 github_username:  bgert
 #theme: alembic-jekyll-theme
 remote_theme: daviddarnes/alembic
+
+# Set plugins
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jemoji
+- jekyll-remote-theme
+
+# Pagination
+paginate: 5
+paginate_path: blog/page:num
