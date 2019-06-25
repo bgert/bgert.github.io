@@ -1,0 +1,54 @@
+
+
+[
+  
+  
+    
+    
+      {
+        "title": "My first Post!",
+        "excerpt": "Working on my new Website and this is the first post. CS update: Trying to find an internship, hope it works out!!\n",
+        "content": "Working on my new Website and this is the first post. CS update: Trying to find an internship, hope it works out!!\n",
+        "url": "/2019/03/31/My-First-Post.html"
+      },
+    
+      {
+        "title": "I got an Internship",
+        "excerpt": "I was able to get an internship this summer. Its at a startup called rMark Bio. The company uses AI to try and bring together partners in the bio tech and pharma industries for collaboration. So far I have written an API unit test suite for one of their APIs using the Jest testing frame work. Through this I have become familiar with Node.js and increased my fluency with Git. I’m excited to see what else I can get done this summer!\n\n",
+        "content": "I was able to get an internship this summer. Its at a startup called rMark Bio. The company uses AI to try and bring together partners in the bio tech and pharma industries for collaboration. So far I have written an API unit test suite for one of their APIs using the Jest testing frame work. Through this I have become familiar with Node.js and increased my fluency with Git. I’m excited to see what else I can get done this summer!\n\n\n\n",
+        "url": "/2019/06/18/I-got-an-internship!.html"
+      },
+    
+  
+  
+  
+  {
+    "title": "About",
+    "excerpt": "\n",
+    "content": "This is my professional blog. Check here for updates about my work and my resume.\n",
+    "url": "/about/"
+  },
+  
+  {
+    "title": "Blog",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/blog/"
+  },
+  
+  {
+    "title": "Home",
+    "excerpt": "\n",
+    "content": "Ben Gertz\n\nChicago :arrow_right: NOLA\n\nHey I’m Ben, this is my personal site. It holds my resume, my blog and has a link to my Github.\n",
+    "url": "/"
+  },
+  
+  {
+    "title": "Resume",
+    "excerpt": "\n",
+    "content": "\n    \n        This browser does not support PDFs. Please download the PDF to view it: Download PDF.\n    &lt;/embed&gt;\n\n",
+    "url": "/resume/"
+  }
+  
+]
+
