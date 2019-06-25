@@ -4,9 +4,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is my personal website. It is a work in progress but live for viewers like you.
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "https://www.bgertz.com/" # the base hostname & protocol for your site, e.g. http://example.com
-social_links:
-  linkedin_username: benjamin-gertz
-  github_username:  bgert
 #theme: alembic-jekyll-theme
 remote_theme: daviddarnes/alembic
 url: 'https://bgertz.com'
@@ -38,6 +35,13 @@ navigation_header:
   url: /blog/
 - title: Resume
   url: /resume/
+
+social: # jekyll-seo-tag > social overrides
+  name: Ben Gertz # jekyll-seo-tag > real name
+  links:  # jekyll-seo-tag > social aliases (sameAs)
+    - https://www.linkedin.com/in/benjamin-gertz
+    - https://github.com/bgert
+
 
 # Collections
 collections:
