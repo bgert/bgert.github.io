@@ -43,6 +43,11 @@ social: # jekyll-seo-tag > social overrides
     - https://github.com/bgert
 
 
+contact:
+  email:      me@bgertz.com
+  github:     https://github.com/bgert
+  linkedin:   https://www.linkedin.com/in/benjamin-gertz
+  
 # Collections
 collections:
   posts:
