@@ -35,19 +35,6 @@ navigation_header:
   url: /blog/
 - title: Resume
   url: /resume/
-
-social: # jekyll-seo-tag > social overrides
-  name: Ben Gertz # jekyll-seo-tag > real name
-  links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://www.linkedin.com/in/benjamin-gertz
-    - https://github.com/bgert
-
-
-contact:
-  email:      me@bgertz.com
-  github:     https://github.com/bgert
-  linkedin:   https://www.linkedin.com/in/benjamin-gertz
-
 # Collections
 collections:
   posts:
