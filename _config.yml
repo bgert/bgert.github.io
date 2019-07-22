@@ -22,6 +22,13 @@ plugins:
 - jemoji
 - jekyll-remote-theme
 
+social: # jekyll-seo-tag > social overrides
+  name: Ben Gertz # jekyll-seo-tag > real name
+  links:  # jekyll-seo-tag > social aliases (sameAs)
+    - https://www.linkedin.com/in/benjamin-gertz/
+    - https://github.com/bgert
+
+
 # Pagination
 paginate: 5
 paginate_path: blog/page:num
