@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "rMark Internship Wrap Up"
+date:   2019-03-31 21:57:43 -0500
+---
+
+I spent the past eight weeks working at a startup in Chicago called rMark Bio. It was an unbelieveable opportunity to gain experience and I'm so glad I did it. The first two weeks I built a unit test harness for one of their API's. It was tedious and I get why they gave it to the intern, but through it I picked up NodeJS which is my new favorite language. It was the first project I have done that involved networking aspects and Node makes it so easy with async/await functions. I also had my first ever code review for this project. My biggest take away was the need to document my code more thoroughly and write out a more comprehensive README file.
+
+My second project was building a Microsoft Teams chat bot. This one was much harder but WAY more rewarding. Microsoft just released the new v4 framework and examples and Stackoverflows are scarce. Within an hour I was able to make a bot that simply reversed the text in any message I sent to it which I initially assumed would be the hard part. Boy was I wrong.
+
+The first service I had to work out was the microsoft natural language understanding service [LUIS][1]. This required no coding as the website guides you through designing the engine and generates JSON for you. One does, however, have to think a lot about sentence structure and tinker in order to give it concise enough directions to be able to interpret commands, collect data and ignore words the way you want it too. In my case I needed the software to determine from a textual command which of three API endings I needed to call, and which, if any, keywords I need to add as search terms.
+
+The final challenge was building the response messages. I decided to use the [Adaptive Cards][2] framework so that I could respond to user commands with semi-dynamic, clean, and professional looking responses. It was here I ran into my most frustrating issues. To start the current version of Adaptive cards is v1.2, but Teams only supports v1.0 and it often was not clear which version a feature was a part of. In one incident I spent a whole morning trying to get a logo to sit next to a link instead of above it. I tried every different syntax tweak I could think of only to find buried at the bottom of a remote SDK page that this feature was v1.2 and not compatible with Teams. Another more frustrating case I was trying to add a HostConfig file that would make the cards appear the same way whether someone was using the Teams mobile app, dark mode, default mode etc. Using what I learned from the previous issue I looked high and low for any information on whether this feature was compatible with Teams. It was important because in Dark mode the white font inverted to black and wouldn't show against the purple background I had added and I wanted to stop the inversion. In desperation I tweeted at the developer at Microsoft and suprisingly he got back to me within an hour, first confirming my suspicion that HostConfigs were not compatible with Teams, but more notably telling me I found a glitch and to open up an [issue][3] on Github so he can solve the problem. The fix is currently in progress so we had to resort to getting rid of the purple background and using the default text color for the cards.
+
+My second and final code review for this app went unbelieveably. I sat in the conference room with the CEO and two senior developers and went over the app. They all loved the functionality and CEO even mentioned how thorough my documentation was for this project compared to my last. I made a note of all the changes they wanted me to make, and was able to improve the bot. They intend to deploy it to the Teams app store as is and if it weren't for the need to wait for the legal team I would have been able deployed it myself.
+
+Working at rMark was an ubelieveable opportunity and I learned so much about programming in the real world as well as what startups are like. I am excited for my senior year of college and its sad it has to end, but I'm really looking forward to starting my career in software development.
+
+
+[1]: https://luis.ai
+[2]: https://adaptivecards.io/
+[3]: https://github.com/microsoft/AdaptiveCards/issues/3244
