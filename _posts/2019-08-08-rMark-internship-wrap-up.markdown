@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "rMark Internship Wrap Up"
-date:   2019-03-31 21:57:43 -0500
+date:   2019-08-08 21:57:43 -0500
 ---
 
 I spent the past eight weeks working at a startup in Chicago called rMark Bio. It was an unbelieveable opportunity to gain experience and I'm so glad I did it. The first two weeks I built a unit test harness for one of their API's. It was tedious and I get why they gave it to the intern, but through it I picked up NodeJS which is my new favorite language. It was the first project I have done that involved networking aspects and Node makes it so easy with async/await functions. I also had my first ever code review for this project. My biggest take away was the need to document my code more thoroughly and write out a more comprehensive README file.
