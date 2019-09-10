@@ -3,7 +3,7 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-<embed src="https://raw.githubusercontent.com/bgert/bgert.github.io/b5c46703d24805041e64ef4c55f5b3cfd1c5e17f/Ben%20Gertz%20internet%20resume.pdf" width="800px" height="1100px" />
+<embed src="Ben Gertz internet resume.pdf" width="800px" height="1100px" />
 
 <!--
 <object>
