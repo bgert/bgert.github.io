@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: null
 title: don't click me
 permalink: /clickme/
 ---
-<!DOCTYPE html>
 <html>
 	<head>
 		<link rel="stylesheet" type="text/css" href="style.css">
