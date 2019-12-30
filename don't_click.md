@@ -5,7 +5,6 @@ permalink: /clickme/
 ---
 <html>
 	<head>
-		<link rel="stylesheet" type="text/css" href="style.css">
 		<!-- Latest compiled and minified CSS -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 
@@ -36,3 +35,11 @@ permalink: /clickme/
 		}
 	</script>
 </html>
+
+<style type="text/css">
+	#bjutton {
+	position:absolute;
+    border: 1px solid red;
+    height:50px;
+}
+	</style>
