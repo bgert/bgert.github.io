@@ -1,6 +1,6 @@
 ---
 layout: null
-title: don't click me
+title: Don't click me
 permalink: /clickme/
 ---
 <html>
@@ -17,7 +17,7 @@ permalink: /clickme/
 	<body>
 		<div class="container">
 			<button type="button" class="btn btn-outline-success" id="bjutton">
-				Click Me! ( ͡~ ͜ʖ ͡°)
+				Click Me!
 			</button>
 		</div>
 	</body>
