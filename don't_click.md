@@ -1,6 +1,6 @@
 ---
 layout: null
-title: Don't click me
+title: Game
 permalink: /clickme/
 ---
 <html>

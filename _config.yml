@@ -45,7 +45,7 @@ navigation_header:
   url: /blog/
 - title: Resume
   url: /resume/
-- title: Don't click me
+- title: Game
   url: /clickme/
 # Collections
 collections:
