@@ -8,9 +8,11 @@ feature_image: "https://github.com/bgert/bgert.github.io/blob/master/new_street_
 ---
 ## Ben Gertz
 
-Chicago :arrow_right: NOLA
+Chicago :arrow_right: NOLA :arrow_right: Chicago :arrow_right: NYC
 
-Hey I'm Ben, this is my personal site. It holds my resume, my blog and has a link to my Github.
+Hi I'm Ben! I'm a highly reliable, detail-oriented Software Engineer with experience in the agile development of cloud-hosted systems using both Go and Java Spring Boot. Technologies used include Elastic Beanstalk, EC2, Lambda, Redis, and DynamoDB to accomplish cloud-based tasks. Strong interpersonal skills to effectively communicate with managers and collaborate with coworkers. Skilled at leading interviews and assessing talent. A fast learner and team player ready to contribute to the overall success of a company.
+
+When I'm not compiling buzz words some of my hobbies include keeping up with world affairs, politics, history and [stand up comedy][3].
 
 [Github][1]
 
@@ -20,3 +22,4 @@ Hey I'm Ben, this is my personal site. It holds my resume, my blog and has a lin
 
 [1]: https://github.com/bgert
 [2]: https://www.linkedin.com/in/benjamin-gertz/
+[3]: https://drive.google.com/file/d/1TkJkoiUqfpLNeVCnfAxjO4bkHQhSpNwc/view?usp=share_link
