@@ -22,4 +22,4 @@ When I'm not compiling buzz words some of my hobbies include keeping up with wor
 
 [1]: https://github.com/bgert
 [2]: https://www.linkedin.com/in/benjamin-gertz/
-[3]: https://drive.google.com/file/d/1TkJkoiUqfpLNeVCnfAxjO4bkHQhSpNwc/view?usp=share_link
+[3]: https://youtube.com/shorts/Qjx3ngSoqmg
